@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+df7b68b79bd730f58d2a13db35a3db79 CMakeFiles/StockTradingBot_autogen
+0df58a4421fe6f68556c327f6fb5aeb1 StockTradingBot_autogen/timestamp

@@ -1,0 +1,4 @@
+/Users/anishdhandore/Documents/Projects/StockTradingBot/build/CMakeFiles/StockTradingBot.dir
+/Users/anishdhandore/Documents/Projects/StockTradingBot/build/CMakeFiles/edit_cache.dir
+/Users/anishdhandore/Documents/Projects/StockTradingBot/build/CMakeFiles/rebuild_cache.dir
+/Users/anishdhandore/Documents/Projects/StockTradingBot/build/CMakeFiles/StockTradingBot_autogen.dir
